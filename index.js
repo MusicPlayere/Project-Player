@@ -39,7 +39,7 @@ const songs = [
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'fassi',
+        displayName: 'fassii',
         cover: 'assets/3.jpg',
         artist: '5',
     }
