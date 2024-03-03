@@ -21,16 +21,22 @@ const songs = [
     },
     {
         path: 'assets/2.mp3',
-        displayName: 'cassa blanca 2',
+        displayName: 'rim',
         cover: 'assets/2.jpg',
         artist: '2',
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'yahya',
+        displayName: 'cassa blanca 2',
         cover: 'assets/3.jpg',
         artist: '3',
-    }
+    },
+    {
+        path: 'assets/4.mp3',
+        displayName: 'alfa',
+        cover: 'assets/1.jpg',
+        artist: '4',
+    },
 ];
 
 let musicIndex = 0;
