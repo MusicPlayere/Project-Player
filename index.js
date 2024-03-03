@@ -33,7 +33,7 @@ const songs = [
     },
     {
         path: 'assets/4.mp3',
-        displayName: 'alfa',
+        displayName: 'al',
         cover: 'assets/4.jpg',
         artist: '4',
     },
