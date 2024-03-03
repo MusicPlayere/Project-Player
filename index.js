@@ -14,33 +14,33 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/4.mp3',
+        path: 'assets/5.mp3',
         displayName: 'project',
-        cover: 'assets/4.jpg',
+        cover: 'assets/5.jpg',
         artist: '1',
     },
     {
-        path: 'assets/5.mp3',
+        path: 'assets/1.mp3',
         displayName: 'By',
         cover: 'assets/1.jpg',
         artist: '2',
     },
     {
-        path: 'assets/1.mp3',
+        path: 'assets/2.mp3',
         displayName: 'souhail',
-        cover: 'assets/1.jpg',
+        cover: 'assets/2.jpg',
         artist: '3',
     },
     {
-        path: 'assets/2.mp3',
+        path: 'assets/3.mp3',
         displayName: 'fihri',
-        cover: 'assets/2.jpg',
+        cover: 'assets/3.jpg',
         artist: '4',
     },
     {
-        path: 'assets/3.mp3',
+        path: 'assets/4.mp3',
         displayName: 'fassii',
-        cover: 'assets/3.jpg',
+        cover: 'assets/4.jpg',
         artist: '5',
     }
 ];
