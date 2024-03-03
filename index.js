@@ -15,7 +15,7 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'rim',
+        displayName: 'r',
         cover: 'assets/1.jpg',
         artist: '1',
     },
