@@ -15,34 +15,22 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'rip',
+        displayName: 'The music 1',
         cover: 'assets/1.jpg',
         artist: '1',
     },
     {
         path: 'assets/2.mp3',
-        displayName: 'rim',
+        displayName: 'the music 2',
         cover: 'assets/2.jpg',
         artist: '2',
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'cassa blanca 2',
+        displayName: 'the music 3',
         cover: 'assets/3.jpg',
         artist: '3',
-    },
-    {
-        path: 'assets/4.mp3',
-        displayName: 'al',
-        cover: 'assets/4.jpg',
-        artist: '4',
-    },
-    {
-        path: 'assets/5.mp3',
-        displayName: 'alfa',
-        cover: 'assets/5.jpg',
-        artist: '5',
-    },
+    }
 ];
 
 let musicIndex = 0;
