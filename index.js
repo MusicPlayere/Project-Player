@@ -38,10 +38,10 @@ const songs = [
         artist: '4',
     },
     {
-        path: 'assets/4.mp3',
+        path: 'assets/5.mp3',
         displayName: 'alfa',
         cover: 'assets/5.jpg',
-        artist: '4',
+        artist: '5',
     },
 ];
 
