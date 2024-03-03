@@ -15,19 +15,19 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'The music 1',
+        displayName: 'rim',
         cover: 'assets/1.jpg',
         artist: '1',
     },
     {
         path: 'assets/2.mp3',
-        displayName: 'the music 2',
+        displayName: 'cassa blanca 2',
         cover: 'assets/2.jpg',
         artist: '2',
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'the music 3',
+        displayName: 'yahya',
         cover: 'assets/3.jpg',
         artist: '3',
     }
