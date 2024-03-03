@@ -15,7 +15,7 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'r',
+        displayName: 'rip',
         cover: 'assets/1.jpg',
         artist: '1',
     },
@@ -34,13 +34,13 @@ const songs = [
     {
         path: 'assets/4.mp3',
         displayName: 'al',
-        cover: 'assets/5.jpg',
+        cover: 'assets/4.jpg',
         artist: '4',
     },
     {
         path: 'assets/5.mp3',
         displayName: 'alfa',
-        cover: 'assets/4.jpg',
+        cover: 'assets/5.jpg',
         artist: '5',
     },
 ];
